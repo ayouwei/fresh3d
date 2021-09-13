@@ -11,12 +11,12 @@ site-twitter: ayouwei #if your site has a twitter account, enter it here
 # Author Settings
 author: ayouwei # add your name
 author-img: Hotpot.png # add your photo
-about-author: 3D 初学爱好者, 这里是专注于收集和分享高质量3D作品及资料的Blog. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+about-author: 新农民工, 3D 初学爱好者. 在这里是专注于收集和分享高质量3D作品及资料. # add description
+social-twitter: ayouwei # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: jesson.cd@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
